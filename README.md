@@ -19,9 +19,7 @@
 ### Ferramentas que utilizo
 
 <p>
-  <a href="https://www.jetbrains.com/rider/">
-    <img src="https://skillicons.dev/icons?i=rider&theme=light" height="40" alt="rider logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=rider&theme=light" height="40" alt="rider logo"  />
   <img src="https://skillicons.dev/icons?i=visualstudio&theme=light" height="40" alt="visual studio 2022 logo"  />
   <img src="https://skillicons.dev/icons?i=vscode&theme=light" height="40" alt="visual studio code logo"  />
 </p>
