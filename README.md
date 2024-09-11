@@ -1,39 +1,40 @@
-# Sobre mim
+<code>Console.WriteLine("Hello, World! 😁");</code>
 
-- Técnico em Desenvolvimento de Sistemas
-- Programador .NET
+## Sobre mim
+
+- 💻 Apaixonado por desenvolvimento back-end
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas
+- 📚 Atualmente estudando **Clean Architecture** e **Unit Testing**
 
 ---
 
-### Tecnologias
+### Tecnologias que utilizo
 
-<div align="left">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=light" height="40" alt="mysql logo"  />
+</p>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+### Ferramentas que utilizo
 
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+<p>
+  <a href="https://www.jetbrains.com/rider/">
+    <img src="https://skillicons.dev/icons?i=rider&theme=light" height="40" alt="rider logo"  />
+  </a>
+  <img src="https://skillicons.dev/icons?i=visualstudio&theme=light" height="40" alt="visual studio 2022 logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=light" height="40" alt="visual studio code logo"  />
+</p>
 
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+### Áreas de Interesse
 
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
-</div>
-
----
+- 🔧 Desenvolvimento back-end
+- 🏗️ Arquitetura de software
+- 📐 Padrões de design
+- 🧪 Testes de software
 
 ### Estatísticas do GitHub
 
-<div align="left">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kauatwn&show_icons=true&count_private=true&theme=material-palenight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauatwn&layout=compact&theme=material-palenight" />
-</div>
+</p>
